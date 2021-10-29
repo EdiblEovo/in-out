@@ -1,6 +1,6 @@
 @font-face {font-family: "iconfont";
-  src: url(../../static/fonts/iconfont.84946314.eot); /* IE9 */
-  src: url(../../static/fonts/iconfont.84946314.eot#iefix) format('embedded-opentype'), 
+  src: url(iconfont.84946314.eot); /* IE9 */
+  src: url(iconfont.84946314.eot#iefix) format('embedded-opentype'), 
   url(iconfont.423c183c.woff2) format('woff2'),
   url(iconfont.c42c242a.woff) format('woff'),
   url(iconfont.c0e6ea98.ttf) format('truetype');
